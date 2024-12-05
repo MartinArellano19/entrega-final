@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "title": "Comprar pan",
+        "desc": "Ir a la panadería a las 9 am",
+        "completed": false
+    },
+    {
+        "id": 2,
+        "title": "Estudiar JavaScript",
+        "desc": "Repasar conceptos de arrays y objetos",
+        "completed": true
+    }
+]
